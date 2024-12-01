@@ -67,4 +67,4 @@ message HelloReply {
 
 ---
 
-¡Listo para probar y documentar tu proyecto! ¿Te gustaría que añada más detalles o instrucciones? 😊
+¡Listo para probar!
